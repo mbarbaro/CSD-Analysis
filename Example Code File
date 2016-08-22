@@ -1,1 +1,1 @@
-This would contain some matlab code.  When someone else want's to work on it
+This would contain some matlab code.  When someone else want's to work on it, they click "create a new branch" below, do work, then create a pull request, which allows the changes to be compared to the original before being committed to the master branch
