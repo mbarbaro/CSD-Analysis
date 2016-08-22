@@ -1,1 +1,6 @@
-This would contain some matlab code.  When someone else want's to work on it, they click "create a new branch" below, do work, then create a pull request, which allows the changes to be compared to the original before being committed to the master branch
+This would contain some matlab code.  When someone else want's to work on it, 
+you click the edit pencil above, and make edits. Then you click "create a 
+new branch" below, which allows the work to be saved without altering the
+master file. The file can continue to be edited in the new branch.  When
+it's done, you click "create a pull request" which allows someone to compare
+the changes and merge the new file with the original. 
